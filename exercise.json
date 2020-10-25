@@ -1,11 +1,11 @@
 {
 "exercise" : [
 {
-  "type" : "cardio"
+  "type" : "cardio",
   "length" : "2"
 }
 {
-  "type" : "hiit"
+  "type" : "hiit",
   "length" : "3"
 }
 ]
